@@ -11,8 +11,8 @@
   </author>
   <entry>
     <title>asdf</title>
-    <link rel="alternate" href="http://blog.url.com/asdf.html"/>
-    <id>http://blog.url.com/asdf.html</id>
+    <link rel="alternate" href="http://blog.url.com/blog2022/asdf.html"/>
+    <id>http://blog.url.com/blog2022/asdf.html</id>
     <published>2022-01-22T10:59:00+08:00</published>
     <updated>2022-01-22T11:20:38+08:00</updated>
     <author>
@@ -245,8 +245,8 @@ Bob--&amp;gt;Alice: I am good thanks!
   </entry>
   <entry>
     <title>测试文章</title>
-    <link rel="alternate" href="http://blog.url.com/example-article.html"/>
-    <id>http://blog.url.com/example-article.html</id>
+    <link rel="alternate" href="http://blog.url.com/blog2022/example-article.html"/>
+    <id>http://blog.url.com/blog2022/example-article.html</id>
     <published>2022-01-22T08:00:00+08:00</published>
     <updated>2022-01-21T15:18:34+08:00</updated>
     <author>
